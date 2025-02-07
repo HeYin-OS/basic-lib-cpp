@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "E:/Jetbrain_series_project/Clion/reproduction-library/cmake-build-debug",
+	"dir-cur-src" : "E:/Jetbrain_series_project/Clion/reproduction-library",
+	"dir-top-bld" : "E:/Jetbrain_series_project/Clion/reproduction-library/cmake-build-debug",
+	"dir-top-src" : "E:/Jetbrain_series_project/Clion/reproduction-library",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "E:/Jetbrain_series_project/Clion/reproduction-library/cmake-build-debug/CMakeFiles/reproduction_library.dir"
+}
